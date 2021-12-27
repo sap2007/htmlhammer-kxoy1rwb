@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/sap2007.htmlhammer-kxoy1rwb",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve V5bx2kWTJxG0lSET93y2 --open"
+  },
+  "dependencies": {}
+}

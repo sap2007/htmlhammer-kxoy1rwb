@@ -1,2 +1,5 @@
-# htmlhammer-kxoy1rwb
-Created with WebComponents.dev
+# htmlhammer Starter Kit
+
+### Links
+
+- [GitHub project](https://github.com/vsmid/htmlhammer)
